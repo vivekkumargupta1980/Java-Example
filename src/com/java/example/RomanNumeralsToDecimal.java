@@ -15,7 +15,6 @@ Algorithm to convert Roman Numerals to Integer Number :
 3.Take symbol one by one from starting from index 0:
 4.If current value of symbol is greater than or equal to the value of next symbol, then add this value to the running total.
 else subtract this value by adding the value of next symbol to the running total.
-
 */
 
 public class RomanNumeralsToDecimal {
